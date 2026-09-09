@@ -1,0 +1,26 @@
+{
+  "siteTitle": "WA ID. Buzz Finder",
+  "vehicleName": "Volkswagen ID. Buzz",
+  "make": "Volkswagen",
+  "model": "ID. Buzz",
+  "minimumYear": 2022,
+  "refreshIntervalDays": 2,
+  "maxApiCalls": 2,
+  "brandMark": "ID",
+  "fallbackImage": "assets/vehicle.svg",
+  "dealerOnlyLabel": "Volkswagen dealers only",
+  "dealerOnlyDescription": "Hide independent and other-brand dealers",
+  "officialDealerNamePatterns": [
+    "Volkswagen"
+  ],
+  "dealerDomains": [
+    "auto206.com",
+    "bmwofspokane.com",
+    "vwofkirkland.com",
+    "vwofpuyallup.com"
+  ],
+  "marketplaceDomains": [
+    "autolist.com",
+    "carvana.com"
+  ]
+}
